@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Xero.Api.BankTransfers": {
+      "commandName": "Project",
+      "commandLineArgs": "A1LR"
+    }
+  }
+}

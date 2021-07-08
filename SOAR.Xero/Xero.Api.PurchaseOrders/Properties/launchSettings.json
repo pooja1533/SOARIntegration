@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Xero.Api.PurchaseOrders": {
+      "commandName": "Project",
+      "commandLineArgs": "IC"
+    }
+  }
+}

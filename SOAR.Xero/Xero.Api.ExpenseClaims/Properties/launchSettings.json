@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Xero.Api.ExpenseClaims": {
+      "commandName": "Project",
+      "commandLineArgs": "A1LR"
+    }
+  }
+}

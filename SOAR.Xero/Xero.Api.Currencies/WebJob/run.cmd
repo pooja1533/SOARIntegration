@@ -1,0 +1,1 @@
+Xero.Api.Currencies.exe A1LR & Xero.Api.Currencies.exe A1LRH & Xero.Api.Currencies.exe A1LRI & Xero.Api.Currencies.exe IC & Xero.Api.Currencies.exe ARCS

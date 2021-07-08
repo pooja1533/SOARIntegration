@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Xero.Api.Contacts": {
+      "commandName": "Project",
+      "commandLineArgs": "A1LR"
+    }
+  }
+}

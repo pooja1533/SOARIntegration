@@ -1,0 +1,1 @@
+Xero.Api.BankTransfers.exe A1LR & Xero.Api.BankTransfers.exe ARCS & Xero.Api.BankTransfers.exe A1LRI & Xero.Api.BankTransfers.exe IC & Xero.Api.BankTransfers.exe A1LRH
